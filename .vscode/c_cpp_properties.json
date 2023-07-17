@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/Users/santerijps/scoop/apps/mingw-winlibs-llvm-ucrt/current/bin/gcc.exe"
+        }
+    ],
+    "version": 4
+}
